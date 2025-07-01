@@ -39,7 +39,7 @@ This repository contains my work for the 8-week data science course and major pr
 - [x] Week 1: Introduction to Python
 - [x] Week 2: Object-Oriented Programming
 - [x] Week 3: Data Science with Python
-- [ ] Week 4: Feature Engineering
+- [x] Week 4: Feature Engineering
 - [ ] Week 5: Regression
 - [ ] Week 6: Clustering
 - [ ] Week 7: SQL Basics
